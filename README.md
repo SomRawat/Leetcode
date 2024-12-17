@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2300-construct-string-with-repeat-limit](https://github.com/SomRawat/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SomRawat/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Sorting
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/SomRawat/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [2300-construct-string-with-repeat-limit](https://github.com/SomRawat/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SomRawat/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SomRawat/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Simulation
@@ -32,8 +34,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/SomRawat/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [2300-construct-string-with-repeat-limit](https://github.com/SomRawat/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 ## Math
 |  |
 | ------- |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SomRawat/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+## String
+|  |
+| ------- |
+| [2300-construct-string-with-repeat-limit](https://github.com/SomRawat/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
+## Counting
+|  |
+| ------- |
+| [2300-construct-string-with-repeat-limit](https://github.com/SomRawat/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 <!---LeetCode Topics End-->
