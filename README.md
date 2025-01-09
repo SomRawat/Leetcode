@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1806-count-of-matches-in-tournament](https://github.com/SomRawat/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SomRawat/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SomRawat/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1806-count-of-matches-in-tournament](https://github.com/SomRawat/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SomRawat/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String
 |  |
