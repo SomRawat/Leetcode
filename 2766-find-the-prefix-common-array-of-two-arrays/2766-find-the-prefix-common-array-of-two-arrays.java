@@ -1,21 +1,20 @@
 class Solution {
     public int[] findThePrefixCommonArray(int[] A, int[] B) {
-        long maskA = 0L; // Bitmask for numbers seen in A
-        long maskB = 0L; // Bitmask for numbers seen in B
-        int[] ans = new int[A.length]; // Result array
+        int n = A.length;
+        int[] freq = new int[n + 1]; 
+        int[] res = new int[n];
+        int count = 0;
 
-        for (int i = 0; i < A.length; i++) {
-            // Update masks
-            maskA |= (1L << (A[i] - 1)); // Set bit for A[i]
-            maskB |= (1L << (B[i] - 1)); // Set bit for B[i]
+        for (int i = 0; i < n; ++i) {
+            freq[A[i]]++;
+            if (freq[A[i]] == 2) count++;
 
-            // Calculate common mask
-            long commonMask = maskA & maskB;
+            freq[B[i]]++;
+            if (freq[B[i]] == 2) count++;
 
-            // Count set bits in commonMask
-            ans[i] = Long.bitCount(commonMask);
+            res[i] = count;
         }
 
-        return ans;
+        return res;
     }
 }
