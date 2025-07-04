@@ -3,10 +3,10 @@ class Solution {
         int n = nums.length;
         k = k % n;  // In case k >= n
 
-        // Reverse 0 to k-1
+        // Reverse 0 to n-k-1
         reverse(nums, 0, n-k - 1);
 
-        // Reverse k to nums.length
+        // Reverse n-k to nums.length-1
         reverse(nums,n- k, n - 1);
 
        // Reverse the whole array
