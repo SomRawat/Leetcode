@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SomRawat/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0898-transpose-matrix](https://github.com/SomRawat/Leetcode/tree/master/0898-transpose-matrix) |
 | [0952-word-subsets](https://github.com/SomRawat/Leetcode/tree/master/0952-word-subsets) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/SomRawat/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -177,5 +178,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SomRawat/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SomRawat/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
