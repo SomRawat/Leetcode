@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SomRawat/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/SomRawat/Leetcode/tree/master/0189-rotate-array) |
 | [0898-transpose-matrix](https://github.com/SomRawat/Leetcode/tree/master/0898-transpose-matrix) |
 | [0952-word-subsets](https://github.com/SomRawat/Leetcode/tree/master/0952-word-subsets) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/SomRawat/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/SomRawat/Leetcode/tree/master/0189-rotate-array) |
 | [1806-count-of-matches-in-tournament](https://github.com/SomRawat/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2032-largest-odd-number-in-string](https://github.com/SomRawat/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SomRawat/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -180,4 +182,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SomRawat/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SomRawat/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0189-rotate-array](https://github.com/SomRawat/Leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
