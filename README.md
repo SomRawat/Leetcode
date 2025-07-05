@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SomRawat/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0136-single-number](https://github.com/SomRawat/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/SomRawat/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SomRawat/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SomRawat/Leetcode/tree/master/0283-move-zeroes) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/SomRawat/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/SomRawat/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/SomRawat/Leetcode/tree/master/0389-find-the-difference) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/SomRawat/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
