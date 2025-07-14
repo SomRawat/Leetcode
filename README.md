@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SomRawat/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SomRawat/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/SomRawat/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/SomRawat/Leetcode/tree/master/0189-rotate-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SomRawat/Leetcode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/SomRawat/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/SomRawat/Leetcode/tree/master/0389-find-the-difference) |
 | [0952-word-subsets](https://github.com/SomRawat/Leetcode/tree/master/0952-word-subsets) |
