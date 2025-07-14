@@ -1,22 +1,28 @@
-import java.util.HashMap;
-import java.util.Map;
-
 class Solution {
     public int majorityElement(int[] nums) {
-        Map<Integer, Integer> map = new HashMap<>();
-        int n = nums.length;
+        // Phase 1: Find the candidate
+        int count = 0;
+        int candidate = 0;
 
         for (int num : nums) {
-            map.put(num, map.getOrDefault(num, 0) + 1);
+            if (count == 0) {
+                candidate = num;
+            }
+            count += (num == candidate) ? 1 : -1;
         }
 
-        for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
-            if (entry.getValue() > n / 2) {
-                return entry.getKey();
+        // Phase 2: (Optional) Validate candidate (if not guaranteed to exist)
+        count = 0;
+        for (int num : nums) {
+            if (num == candidate) {
+                count++;
             }
         }
 
-        // Problem guarantees a majority element always exists
+        if (count > nums.length / 2) {
+            return candidate;
+        }
+
         return -1;
     }
 }
