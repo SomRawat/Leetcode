@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/SomRawat/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SomRawat/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SomRawat/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/SomRawat/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/SomRawat/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0898-transpose-matrix](https://github.com/SomRawat/Leetcode/tree/master/0898-transpose-matrix) |
 | [0952-word-subsets](https://github.com/SomRawat/Leetcode/tree/master/0952-word-subsets) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/SomRawat/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/SomRawat/Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/SomRawat/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/SomRawat/Leetcode/tree/master/0389-find-the-difference) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/SomRawat/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SomRawat/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -206,12 +208,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/SomRawat/Leetcode/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/SomRawat/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SomRawat/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/SomRawat/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0680-valid-palindrome-ii](https://github.com/SomRawat/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SomRawat/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/SomRawat/Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/SomRawat/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
