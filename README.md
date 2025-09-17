@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/SomRawat/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/SomRawat/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SomRawat/Leetcode/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/SomRawat/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/SomRawat/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SomRawat/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SomRawat/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -57,12 +58,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SomRawat/Leetcode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/SomRawat/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/SomRawat/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/SomRawat/Leetcode/tree/master/0389-find-the-difference) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SomRawat/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/SomRawat/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/SomRawat/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/SomRawat/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/SomRawat/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -221,8 +224,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/SomRawat/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/SomRawat/Leetcode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/SomRawat/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SomRawat/Leetcode/tree/master/0053-maximum-subarray) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/SomRawat/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
