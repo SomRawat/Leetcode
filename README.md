@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SomRawat/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/SomRawat/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SomRawat/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/SomRawat/Leetcode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/SomRawat/Leetcode/tree/master/0053-maximum-subarray) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SomRawat/Leetcode/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/SomRawat/Leetcode/tree/master/0134-gas-station) |
 | [0680-valid-palindrome-ii](https://github.com/SomRawat/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SomRawat/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SomRawat/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SomRawat/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SomRawat/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/SomRawat/Leetcode/tree/master/0031-next-permutation) |
