@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/SomRawat/Leetcode/tree/master/0053-maximum-subarray) |
 | [0134-gas-station](https://github.com/SomRawat/Leetcode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/SomRawat/Leetcode/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/SomRawat/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/SomRawat/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SomRawat/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/SomRawat/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SomRawat/Leetcode/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/SomRawat/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0954-maximum-sum-circular-subarray](https://github.com/SomRawat/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Quickselect
 |  |
