@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/SomRawat/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/SomRawat/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SomRawat/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3355-zero-array-transformation-i](https://github.com/SomRawat/Leetcode/tree/master/3355-zero-array-transformation-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SomRawat/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SomRawat/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/SomRawat/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SomRawat/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3355-zero-array-transformation-i](https://github.com/SomRawat/Leetcode/tree/master/3355-zero-array-transformation-i) |
 ## Bit Manipulation
 |  |
 | ------- |
