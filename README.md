@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/SomRawat/Leetcode/tree/master/0898-transpose-matrix) |
 | [0952-word-subsets](https://github.com/SomRawat/Leetcode/tree/master/0952-word-subsets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/SomRawat/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [0994-rotting-oranges](https://github.com/SomRawat/Leetcode/tree/master/0994-rotting-oranges) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/SomRawat/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/SomRawat/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/SomRawat/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/SomRawat/Leetcode/tree/master/0200-number-of-islands) |
 | [0898-transpose-matrix](https://github.com/SomRawat/Leetcode/tree/master/0898-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/SomRawat/Leetcode/tree/master/0994-rotting-oranges) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/SomRawat/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2685-first-completely-painted-row-or-column](https://github.com/SomRawat/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Brainteaser
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/SomRawat/Leetcode/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/SomRawat/Leetcode/tree/master/0994-rotting-oranges) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/SomRawat/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Graph
 |  |
