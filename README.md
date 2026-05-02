@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/SomRawat/Leetcode/tree/master/0952-word-subsets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/SomRawat/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0994-rotting-oranges](https://github.com/SomRawat/Leetcode/tree/master/0994-rotting-oranges) |
+| [1094-car-pooling](https://github.com/SomRawat/Leetcode/tree/master/1094-car-pooling) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/SomRawat/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/SomRawat/Leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/SomRawat/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -78,12 +79,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/SomRawat/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/SomRawat/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/SomRawat/Leetcode/tree/master/0389-find-the-difference) |
+| [1094-car-pooling](https://github.com/SomRawat/Leetcode/tree/master/1094-car-pooling) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/SomRawat/Leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SomRawat/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SomRawat/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1094-car-pooling](https://github.com/SomRawat/Leetcode/tree/master/1094-car-pooling) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/SomRawat/Leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/SomRawat/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/SomRawat/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/SomRawat/Leetcode/tree/master/0898-transpose-matrix) |
+| [1094-car-pooling](https://github.com/SomRawat/Leetcode/tree/master/1094-car-pooling) |
 | [1806-count-of-matches-in-tournament](https://github.com/SomRawat/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SomRawat/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SomRawat/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -172,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SomRawat/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SomRawat/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1094-car-pooling](https://github.com/SomRawat/Leetcode/tree/master/1094-car-pooling) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SomRawat/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SomRawat/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/SomRawat/Leetcode/tree/master/2465-shifting-letters-ii) |
