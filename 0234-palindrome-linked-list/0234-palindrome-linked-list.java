@@ -8,65 +8,40 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+
 class Solution {
 
     public boolean isPalindrome(ListNode head) {
 
         if (head == null || head.next == null) return true;
 
-        // 1. Find middle (slow will be at middle)
-
+        // 1. Find middle
         ListNode slow = head, fast = head;
 
         while (fast != null && fast.next != null) {
-
             slow = slow.next;
-
             fast = fast.next.next;
-
         }
 
         // 2. Reverse second half
-
-        ListNode secondHalf = reverse(slow);
+        ListNode prev = null;
+        while (slow != null) {
+            ListNode next = slow.next;
+            slow.next = prev;
+            prev = slow;
+            slow = next;
+        }
 
         // 3. Compare both halves
+        ListNode first = head;
+        ListNode second = prev;
 
-        ListNode firstHalf = head;
-
-        ListNode copySecond = secondHalf; // to restore later if needed
-
-        while (secondHalf != null) {
-
-            if (firstHalf.val != secondHalf.val) return false;
-
-            firstHalf = firstHalf.next;
-
-            secondHalf = secondHalf.next;
-
+        while (second != null) {
+            if (first.val != second.val) return false;
+            first = first.next;
+            second = second.next;
         }
 
         return true;
-
-    }
-
-      private ListNode reverse(ListNode head) {
-
-        ListNode prev = null;
-
-        while (head != null) {
-
-            ListNode nextNode = head.next;
-
-            head.next = prev;
-
-            prev = head;
-
-            head = nextNode;
-
-        }
-
-        return prev;
-
     }
 }
