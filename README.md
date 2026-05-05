@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/SomRawat/Leetcode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/SomRawat/Leetcode/tree/master/0994-rotting-oranges) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/SomRawat/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/SomRawat/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Graph
 |  |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/SomRawat/Leetcode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SomRawat/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/SomRawat/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SomRawat/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/SomRawat/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -358,4 +361,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SomRawat/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/SomRawat/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
