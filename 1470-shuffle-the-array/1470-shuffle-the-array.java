@@ -2,15 +2,25 @@ class Solution {
 
     public int[] shuffle(int[] nums, int n) {
 
-        int[] result = new int[2 * n];
+        int base = 1001;
 
-        int index = 0;
-
+        // Step 1: Encode both values
         for (int i = 0; i < n; i++) {
-            result[index++] = nums[i];     // x
-            result[index++] = nums[i+n];   // y
+            nums[i] = nums[i] + nums[i + n] * base;
         }
 
-        return result;
+        // Step 2: Decode and place correctly
+        int index = 2 * n - 1;
+
+        for (int i = n - 1; i >= 0; i--) {
+
+            int y = nums[i] / base;
+            int x = nums[i] % base;
+
+            nums[index--] = y;
+            nums[index--] = x;
+        }
+
+        return nums;
     }
 }
